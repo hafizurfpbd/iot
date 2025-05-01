@@ -29,6 +29,3 @@ void loop() {
     delay(16000); // Match ThingSpeak update rate
   }
 }
-
-
-//https://thermal-iot.bhuiyansoft.com/senddata/home/machine_id/data
