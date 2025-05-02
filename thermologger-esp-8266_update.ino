@@ -2,10 +2,10 @@
 #include <WiFiClientSecure.h>
 #include <ESP8266HTTPClient.h>
 
-const char* ssid = "NGIT_2G";
-const char* password = "NGIT334733";
-const char* host = "https://thermal-iot.bhuiyansoft.com/senddata/home/334733";
-const char* api = "334733";
+const char* ssid = "xxxxxx";
+const char* password = "********";
+const char* host = "https://thermal-iot.bhuiyansoft.com/";
+const char* api = "********";
 
 unsigned long lasttime = 0;
 const unsigned long interval = 10000;
